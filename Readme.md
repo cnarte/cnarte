@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img height="206" src="sketch green.gif"  />
+  <img height="206" src="sketch_without_bg.gif"  />
 </div>
 
 ###
