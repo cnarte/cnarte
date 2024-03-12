@@ -3,8 +3,9 @@
 
 
 <div align="center">
-  <img height="206" src="sketch_without_bg.gif"  />
+  <img height="206" src="sketch green.gif" style="border-radius: 50%;" autoplay />
 </div>
+
 
 ###
 ###
