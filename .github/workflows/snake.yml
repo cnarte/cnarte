@@ -19,14 +19,14 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: cnarte/snk/svg-only@3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
 
       - name: push snake.svg to the output branch
-        uses: cnarte/ghaction-github-pages@3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
