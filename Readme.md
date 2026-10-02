@@ -6,6 +6,9 @@
   <img height="206" src="sketch green.gif" style="border-radius: 50%;" autoplay />
 </div>
 
+[![Papers with Code: #2 on DAVIS 2016 Val](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge.svg?eval=17873&live=1)](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge-link?eval=17873)
+[![Papers with Code: #3 on DAVIS 2017 test-dev](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge.svg?eval=17874&live=1)](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge-link?eval=17874)
+[![Papers with Code: #3 on YouTube-VOS 2018 Validation (Official Server)](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge.svg?eval=17872&live=1)](https://paperswithcode.co/api/v1/papers/2106.05210/leaderboard-badge-link?eval=17872)
 
 ###
 ###
